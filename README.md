@@ -35,6 +35,10 @@ Please see the ["Issues" in github](https://github.com/playi/WonderPy/issues) fo
 1. macOS
 2. Familiarity with python and command-line tools
 
+## Install pip and virualenv (macOS)
+1. `sudo easy_install pip`
+2. `sudo pip install virtualenv`
+
 ## Create a new python virtual environment
 1. `virtualenv --python=/usr/bin/python2.7 --no-site-packages venv`
 2. `source venv/bin/activate`
