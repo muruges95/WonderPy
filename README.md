@@ -74,7 +74,7 @@ There are many examples of using it separately in the github repository [playi/W
 
 To test basic functionality, run these at the command-line, inside your fresh virtualenv:  
 
-download the "01\_hello\_world.py" tutorial example:  
+download the "01\_hello\_world.py" tutorial example (this is one command):  
 ```curl -o 01_hello_world.py https://raw.githubusercontent.com/playi/WonderPyExamples/master/tutorial/01_hello_world.py```  
 
 run it:  
